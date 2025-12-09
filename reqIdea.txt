@@ -1,0 +1,6 @@
+1)client add the event based on location shows 
+2)get the input from the client and saved in the localStorage
+3)then implement the edit add and delete activities chandes on localStorage
+4)Then getting the data from local store fetch whare we want
+
+Dedicated:Ui calculations implementaion logic ,

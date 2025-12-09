@@ -1,0 +1,126 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Magical Night Show",
+      "type": "magic",
+      "date": "2025-09-15",
+      "time": "7:00 PM",
+      "location": "Grand Theater, Bangalore",
+      "organizer": "EventMaster",
+      "price": 50,
+      "totalSeats": 500,
+      "availableTickets": 120,
+      "description": "Experience a night full of illusions, tricks, and breathtaking performances.",
+      "schedule": [
+        "6:30 PM - Entry",
+        "7:00 PM - Opening Act",
+        "8:00 PM - Main Show",
+        "9:30 PM - Closing"
+      ],
+      "image": "magic-show.jpg",
+      "participants": [
+        { "name": "David Blaine", "role": "Magician", "image": "blaine.jpg" },
+        { "name": "Anna Sparks", "role": "Host", "image": "anna.jpg" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rock & Roll Concert",
+      "type": "music",
+      "date": "2025-10-05",
+      "time": "8:00 PM",
+      "location": "Open Air Stadium, Mumbai",
+      "organizer": "LiveNation",
+      "price": 80,
+      "totalSeats": 1000,
+      "availableTickets": 340,
+      "description": "Get ready to rock with electrifying performances from top rock bands.",
+      "schedule": [
+        "7:00 PM - Gates Open",
+        "8:00 PM - Opening Band",
+        "9:00 PM - Headliner",
+        "11:00 PM - Closing Fireworks"
+      ],
+      "image": "rock-concert.jpg",
+      "participants": [
+        { "name": "Metal Storm", "role": "Headliner Band", "image": "metalstorm.jpg" },
+        { "name": "DJ Thunder", "role": "Opening Act", "image": "djthunder.jpg" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dance Fiesta 2025",
+      "type": "dance",
+      "date": "2025-11-12",
+      "time": "6:00 PM",
+      "location": "Cultural Hall, Delhi",
+      "organizer": "DanceWorld",
+      "price": 40,
+      "totalSeats": 600,
+      "availableTickets": 200,
+      "description": "A spectacular evening showcasing classical, hip-hop, and contemporary dance forms.",
+      "schedule": [
+        "5:30 PM - Entry",
+        "6:00 PM - Classical Dance",
+        "7:00 PM - Hip-Hop Battle",
+        "8:00 PM - Contemporary Showcase",
+        "9:30 PM - Closing"
+      ],
+      "image": "dance-fiesta.jpg",
+      "participants": [
+        { "name": "Riya Sharma", "role": "Classical Dancer", "image": "riya.jpg" },
+        { "name": "Street Kings", "role": "Hip-Hop Crew", "image": "streetkings.jpg" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Comedy Carnival",
+      "type": "comedy",
+      "date": "2025-12-20",
+      "time": "7:30 PM",
+      "location": "City Auditorium, Hyderabad",
+      "organizer": "LaughOutLoud",
+      "price": 35,
+      "totalSeats": 800,
+      "availableTickets": 450,
+      "description": "An evening full of laughter with the best stand-up comedians in India.",
+      "schedule": [
+        "7:00 PM - Doors Open",
+        "7:30 PM - Opening Act",
+        "8:00 PM - Stand-up Marathon",
+        "10:30 PM - Closing Remarks"
+      ],
+      "image": "comedy-carnival.jpg",
+      "participants": [
+        { "name": "Kunal Kamra", "role": "Comedian", "image": "kamra.jpg" },
+        { "name": "Neha Gupta", "role": "Host", "image": "neha.jpg" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Theater Drama Night",
+      "type": "drama",
+      "date": "2026-01-15",
+      "time": "6:30 PM",
+      "location": "Royal Theatre, Chennai",
+      "organizer": "StageCraft",
+      "price": 60,
+      "totalSeats": 700,
+      "availableTickets": 280,
+      "description": "Witness an emotional and thrilling drama performance by the best theatre artists.",
+      "schedule": [
+        "6:00 PM - Entry",
+        "6:30 PM - Act 1",
+        "7:30 PM - Interval",
+        "7:45 PM - Act 2",
+        "9:00 PM - Curtain Close"
+      ],
+      "image": "drama-night.jpg",
+      "participants": [
+        { "name": "Arjun Rao", "role": "Lead Actor", "image": "arjun.jpg" },
+        { "name": "Maya Nair", "role": "Lead Actress", "image": "maya.jpg" }
+      ]
+    }
+  ]
+}
